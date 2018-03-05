@@ -10,7 +10,7 @@ import {
   View
 } from 'react-native';
  
-export default class HitungLuasSegitiga extends Component {
+export default class HitungVolumeBalokextends Component {
   constructor(props){
     super(props)
     this.state = {
